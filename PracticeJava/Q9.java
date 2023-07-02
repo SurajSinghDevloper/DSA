@@ -1,3 +1,5 @@
+package PracticeJava;
+
 public class Q9 {
     /**
      * Write a Java program to compute the specified expressions and print the

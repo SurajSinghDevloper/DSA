@@ -1,3 +1,5 @@
+package PracticeJava;
+
 public class SwapWithoutVariable {
     public static void main(String[] args) {
         int a = 9;

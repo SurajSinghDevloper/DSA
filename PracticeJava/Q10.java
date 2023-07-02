@@ -1,3 +1,5 @@
+package PracticeJava;
+
 public class Q10 {
     /**
      * Write a Java program to compute a specified formula.

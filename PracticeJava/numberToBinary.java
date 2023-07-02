@@ -1,3 +1,5 @@
+package PracticeJava;
+
 public class numberToBinary {
     /**
      * Step 1: Remainder when 10 is divided by 2 is zero. Therefore, arr[0] = 0.
