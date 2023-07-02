@@ -1,4 +1,4 @@
-package PracticeJava;
+package PracticeJava.Questions;
 
 import java.util.Scanner;
 
@@ -28,5 +28,6 @@ public class Q12 {
 
         System.out.println("Average of five numbers is: " +
                 (num1 + num2 + num3 + num4 + num5) / 5);
+        in.close();
     }
 }

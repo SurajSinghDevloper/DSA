@@ -1,4 +1,4 @@
-package PracticeJava;
+package PracticeJava.Questions;
 
 public class FibonacciSerires {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package PracticeJava;
+package PracticeJava.Questions;
 
 public class SwapUsingVariable {
   // swaping using third variable
