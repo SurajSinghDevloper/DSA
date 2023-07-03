@@ -1,4 +1,4 @@
-package PracticeJava.Array;
+package Array;
 
 import java.util.Scanner;
 
@@ -49,5 +49,6 @@ public class ArrayProblem3 {
         for (int i : num) {
             System.out.print(i + "  ");
         }
+        sc.close();
     }
 }

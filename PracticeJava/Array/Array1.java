@@ -1,4 +1,4 @@
-package PracticeJava.Array;
+package Array;
 
 import java.lang.reflect.Array;
 

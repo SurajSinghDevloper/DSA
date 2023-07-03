@@ -1,4 +1,4 @@
-package PracticeJava.Array;
+package Array;
 
 import java.util.Scanner;
 
@@ -31,5 +31,6 @@ public class ArrayProblem2 {
 
         // result of total marks
         System.out.println("Marks in Total = " + total + "  Percent = " + total / n + "%");
+        br.close();
     }
 }

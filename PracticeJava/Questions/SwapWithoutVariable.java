@@ -1,4 +1,4 @@
-package PracticeJava.Questions;
+package Questions;
 
 public class SwapWithoutVariable {
     public static void main(String[] args) {

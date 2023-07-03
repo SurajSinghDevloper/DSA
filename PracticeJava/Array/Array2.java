@@ -1,4 +1,4 @@
-package PracticeJava.Array;
+package Array;
 
 /**
  * About 2D arrays

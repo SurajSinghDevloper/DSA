@@ -1,4 +1,4 @@
-package PracticeJava.Questions;
+package Questions;
 
 import java.util.Scanner;
 
